@@ -1,8 +1,26 @@
-CREATE TABLE STOPS
+CREATE TABLE Stops
 (
 StopId varchar(20) NOT NULL UNIQUE,
 StopCode varchar(10) NOT NULL UNIQUE,
 StopName varchar(40) NOT NULL,
 StopLatitude FLOAT,
 StopLongitude FLOAT
+);
+
+CREATE TABLE BusRequests
+(
+RequestId int PRIMARY KEY,
+UserId int NOT NULL UNIQUE,
+BusId varchar(20),
+BusName varchar(30),
+StopId varchar(20),
+TimeRemaining DateTime
+);
+
+CREATE TABLE Users
+(
+UserId int PRIMARY KEY,
+GoogleIdToken varchar(20)
+Username varchar(30),
+DeviceNumber varchar(40)
 );
