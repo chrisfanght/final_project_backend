@@ -20,7 +20,7 @@ TimeRemaining DateTime
 CREATE TABLE Users
 (
 UserId int PRIMARY KEY,
-GoogleIdToken varchar(20)
+GoogleIdToken varchar(20),
 Username varchar(30),
 DeviceNumber varchar(40)
 );
