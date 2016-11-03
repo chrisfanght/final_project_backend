@@ -1,5 +1,8 @@
 from app.db import database, cursor
 import json
+'''
+	Parse stop data and import data into mysql database
+'''
 
 with open("data.json") as data_file:
 	data = json.load(data_file)
