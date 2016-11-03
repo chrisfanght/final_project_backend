@@ -278,42 +278,42 @@
             "code": "MTD1333",
             "distance": 4575.34,
             "stop_id": "1STSMR",
-            "stop_name": "First and St. Mary's Rd.",
+            "stop_name": "First and St. Mary\'s Rd.",
             "stop_points": [
                 {
                     "code": "MTD1333",
                     "stop_id": "1STSMR:1",
                     "stop_lat": 40.094535,
                     "stop_lon": -88.238312,
-                    "stop_name": "First & St. Mary's (NE Corner)"
+                    "stop_name": "First & St. Mary\'s (NE Corner)"
                 },
                 {
                     "code": "MTD1333",
                     "stop_id": "1STSMR:3",
                     "stop_lat": 40.094472,
                     "stop_lon": -88.238642,
-                    "stop_name": "First & St. Mary's (SW Corner)"
+                    "stop_name": "First & St. Mary\'s (SW Corner)"
                 },
                 {
                     "code": "MTD1333",
                     "stop_id": "1STSMR:4",
                     "stop_lat": 40.094647,
                     "stop_lon": -88.238638,
-                    "stop_name": "First & St. Mary's (NW Corner)"
+                    "stop_name": "First & St. Mary\'s (NW Corner)"
                 },
                 {
                     "code": "MTD1333",
                     "stop_id": "1STSMR:5",
                     "stop_lat": 40.094833,
                     "stop_lon": -88.238503,
-                    "stop_name": "First & St. Mary's (NE Far Side)"
+                    "stop_name": "First & St. Mary\'s (NE Far Side)"
                 },
                 {
                     "code": "MTD1333",
                     "stop_id": "1STSMR:8",
                     "stop_lat": 40.09454,
                     "stop_lon": -88.239055,
-                    "stop_name": "First & St. Mary's (NW Far Side)"
+                    "stop_name": "First & St. Mary\'s (NW Far Side)"
                 }
             ]
         },
@@ -664,21 +664,21 @@
             "code": "MTD7424",
             "distance": 3797.82,
             "stop_id": "4THSMR",
-            "stop_name": "Fourth and St. Mary's",
+            "stop_name": "Fourth and St. Mary\'s",
             "stop_points": [
                 {
                     "code": "MTD7424",
                     "stop_id": "4THSMR:4",
                     "stop_lat": 40.094688,
                     "stop_lon": -88.233327,
-                    "stop_name": "Fourth & St. Mary's (NW Corner)"
+                    "stop_name": "Fourth & St. Mary\'s (NW Corner)"
                 },
                 {
                     "code": "MTD7424",
                     "stop_id": "4THSMR:5",
                     "stop_lat": 40.094883,
                     "stop_lon": -88.233193,
-                    "stop_name": "Fourth & St. Mary's (NE Far Side)"
+                    "stop_name": "Fourth & St. Mary\'s (NE Far Side)"
                 }
             ]
         },
@@ -1484,14 +1484,14 @@
             "code": "MTD3769",
             "distance": 15337.7,
             "stop_id": "ANTHNYNAP",
-            "stop_name": "Anthony at Napleton's",
+            "stop_name": "Anthony at Napleton\'s",
             "stop_points": [
                 {
                     "code": "MTD3769",
                     "stop_id": "ANTHNYNAP:4",
                     "stop_lat": 40.137229,
                     "stop_lon": -88.194106,
-                    "stop_name": "Anthony at Napleton's (NW Corner)"
+                    "stop_name": "Anthony at Napleton\'s (NW Corner)"
                 }
             ]
         },
@@ -13973,7 +13973,7 @@
                     "stop_id": "LNCLNSMR:4",
                     "stop_lat": 40.094662,
                     "stop_lon": -88.219052,
-                    "stop_name": "Lincoln & St. Mary's (NW Corner)"
+                    "stop_name": "Lincoln & St. Mary\'s (NW Corner)"
                 }
             ]
         },
@@ -17902,7 +17902,7 @@
             "code": "MTD1774",
             "distance": 5352.55,
             "stop_id": "OAK",
-            "stop_name": "Oak between Hazelwood and St. Mary's",
+            "stop_name": "Oak between Hazelwood and St. Mary\'s",
             "stop_points": [
                 {
                     "code": "MTD1774",
@@ -17962,14 +17962,14 @@
             "code": "MTD1883",
             "distance": 15816.77,
             "stop_id": "OBRNANTHNY",
-            "stop_name": "O'Brien and Anthony",
+            "stop_name": "O\'Brien and Anthony",
             "stop_points": [
                 {
                     "code": "MTD1883",
                     "stop_id": "OBRNANTHNY:7",
                     "stop_lat": 40.139193,
                     "stop_lon": -88.194596,
-                    "stop_name": "O'Brien and Anthony (SW Far Side)"
+                    "stop_name": "O\'Brien and Anthony (SW Far Side)"
                 }
             ]
         },
@@ -20194,7 +20194,7 @@
             "code": "MTD4652",
             "distance": 16766.56,
             "stop_id": "PSPCTMJR",
-            "stop_name": "Prospect at Meijer's Ent.",
+            "stop_name": "Prospect at Meijer\'s Ent.",
             "stop_points": [
                 {
                     "code": "MTD4652",
@@ -21890,21 +21890,21 @@
             "code": "MTD2247",
             "distance": 5473.42,
             "stop_id": "SMRGRIF",
-            "stop_name": "St. Mary's Road and Griffith",
+            "stop_name": "St. Mary\'s Road and Griffith",
             "stop_points": [
                 {
                     "code": "MTD2247",
                     "stop_id": "SMRGRIF:1",
                     "stop_lat": 40.09451,
                     "stop_lon": -88.24318,
-                    "stop_name": "St. Mary's & Griffith (NE Corner)"
+                    "stop_name": "St. Mary\'s & Griffith (NE Corner)"
                 },
                 {
                     "code": "MTD2247",
                     "stop_id": "SMRGRIF:3",
                     "stop_lat": 40.09443,
                     "stop_lon": -88.243333,
-                    "stop_name": "St. Mary's & Griffith (SW Corner)"
+                    "stop_name": "St. Mary\'s & Griffith (SW Corner)"
                 }
             ]
         },
@@ -21927,21 +21927,21 @@
             "code": "MTD2103",
             "distance": 5902.89,
             "stop_id": "SMRNEIL",
-            "stop_name": "St Mary's Road and Neil",
+            "stop_name": "St Mary\'s Road and Neil",
             "stop_points": [
                 {
                     "code": "MTD2103",
                     "stop_id": "SMRNEIL:1",
                     "stop_lat": 40.094521,
                     "stop_lon": -88.245013,
-                    "stop_name": "St. Mary's & Neil (NE Corner)"
+                    "stop_name": "St. Mary\'s & Neil (NE Corner)"
                 },
                 {
                     "code": "MTD2103",
                     "stop_id": "SMRNEIL:3",
                     "stop_lat": 40.094432,
                     "stop_lon": -88.245523,
-                    "stop_name": "St. Mary's & Neil (SW Corner)"
+                    "stop_name": "St. Mary\'s & Neil (SW Corner)"
                 }
             ]
         },
@@ -21949,28 +21949,28 @@
             "code": "MTD6654",
             "distance": 5112.86,
             "stop_id": "SMROAK",
-            "stop_name": "St. Mary's Road and Oak",
+            "stop_name": "St. Mary\'s Road and Oak",
             "stop_points": [
                 {
                     "code": "MTD6654",
                     "stop_id": "SMROAK:1",
                     "stop_lat": 40.094518,
                     "stop_lon": -88.241235,
-                    "stop_name": "St. Mary's & Oak (NE Corner)"
+                    "stop_name": "St. Mary\'s & Oak (NE Corner)"
                 },
                 {
                     "code": "MTD6654",
                     "stop_id": "SMROAK:2",
                     "stop_lat": 40.09432,
                     "stop_lon": -88.24141,
-                    "stop_name": "St. Mary's & Oak (SE Corner)"
+                    "stop_name": "St. Mary\'s & Oak (SE Corner)"
                 },
                 {
                     "code": "MTD6654",
                     "stop_id": "SMROAK:3",
                     "stop_lat": 40.094412,
                     "stop_lon": -88.241653,
-                    "stop_name": "St. Mary's & Oak (SW Corner)"
+                    "stop_name": "St. Mary\'s & Oak (SW Corner)"
                 }
             ]
         },
@@ -25594,21 +25594,21 @@
             "code": "MTD9895",
             "distance": 16376.23,
             "stop_id": "VNCEOBRN",
-            "stop_name": "Vance and O'Brien",
+            "stop_name": "Vance and O\'Brien",
             "stop_points": [
                 {
                     "code": "MTD9895",
                     "stop_id": "VNCEOBRN:4",
                     "stop_lat": 40.138975,
                     "stop_lon": -88.190642,
-                    "stop_name": "Vance & O'Brien (NW Corner)"
+                    "stop_name": "Vance & O\'Brien (NW Corner)"
                 },
                 {
                     "code": "MTD9895",
                     "stop_id": "VNCEOBRN:8",
                     "stop_lat": 40.138907,
                     "stop_lon": -88.191304,
-                    "stop_name": "Vance & O'Brien (NW Far Side)"
+                    "stop_name": "Vance & O\'Brien (NW Far Side)"
                 }
             ]
         },

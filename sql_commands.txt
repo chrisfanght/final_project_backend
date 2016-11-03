@@ -1,7 +1,7 @@
 CREATE TABLE Stops
 (
 StopId varchar(20) NOT NULL UNIQUE,
-StopCode varchar(10) NOT NULL UNIQUE,
+StopCode varchar(10) NOT NULL,
 StopName varchar(40) NOT NULL,
 StopLatitude FLOAT,
 StopLongitude FLOAT
